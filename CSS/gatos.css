@@ -1,0 +1,20 @@
+.g1 {
+    border-radius: 25px;
+    background: #fd03cf;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+.g2 {
+ 
+    border-radius: 25px;
+    background: #0026ff;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+.posicion {
+    position: relative;
+    right: -300px;
+    top: -130px;
+}
