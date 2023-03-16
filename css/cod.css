@@ -1,0 +1,18 @@
+#centrado{
+    text-align: center;
+}
+a:hover {
+    color: hotpink;
+  }
+.texto{
+    font-size: 40px;
+    position: relative;
+    right: -250px;
+    top: -150px;
+}
+.posicion {
+    position: relative;
+    right: -250px;
+    top: -170px;
+    font-size: 35px;
+  }
