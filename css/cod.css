@@ -11,8 +11,17 @@ a:hover {
     top: -150px;
 }
 .posicion {
-    position: relative;
-    right: -250px;
-    top: -170px;
+    position:relative;
+    left: 480px;
+    top: 600px;
     font-size: 35px;
   }
+.tam{
+  width: 100%;
+  max-width: 350px;
+  height: 300px;
+} 
+#pos {
+  display: flex;
+  align-items: center;
+}
